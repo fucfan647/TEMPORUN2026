@@ -1,0 +1,43 @@
+# Generated model snapshots and caches
+models/*
+!models/README.md
+vendor/
+.hf_home/
+.cache/
+
+# Generated data and pipeline artifacts
+artifacts/
+artifacts_*/
+omnishot_output/
+*.npy
+*.npz
+*.safetensors
+*.pth
+submission.json
+submission.zip
+*.modelscope.part
+
+# Local environments and Python build products
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+build/
+dist/
+
+# Local input data and task files
+data/
+dataset/
+V3C/
+V3C1/
+V3C2/
+*_round_tasks.jsonl
+
+# Editors and OS files
+.idea/
+.vscode/
+.DS_Store

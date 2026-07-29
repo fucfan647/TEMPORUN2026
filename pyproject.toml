@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "temporun-qwen3-vl-retrieval"
+version = "0.1.0"
+description = "Qwen3-VL-8B 4-bit video shot retrieval and reranking pipeline"
+requires-python = ">=3.11"
+
+[tool.setuptools.packages.find]
+include = ["temporun_pipeline*"]
+
+[project.scripts]
+temporun-pipeline = "temporun_pipeline.cli:main"

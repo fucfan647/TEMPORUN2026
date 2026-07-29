@@ -1,0 +1,8 @@
+decord==0.6.0
+huggingface-hub==1.25.1
+numpy==2.1.2
+opencv-python==5.0.0.93
+opencv-python-headless==5.0.0.93
+packaging==26.2
+Pillow==10.4.0
+tqdm==4.70.0

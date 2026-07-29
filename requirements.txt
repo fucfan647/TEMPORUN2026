@@ -1,0 +1,11 @@
+accelerate==1.14.0
+bitsandbytes==0.50.0
+huggingface-hub==1.18.0
+numpy==2.4.6
+opencv-python-headless==5.0.0.93
+Pillow==12.2.0
+pytest==9.1.1
+qwen-vl-utils==0.0.14
+scipy==1.18.0
+torchcodec==0.12.0
+transformers==5.14.1
