@@ -12,7 +12,7 @@ create the official Git commit or release tag.
 | Field | Value |
 |---|---|
 | Team | `messiuuu` |
-| Method | `Qwen3-VL-8B embedding + reranking with OmniShotCut` |
+| Method | `OmniShot-Qwen3VL Retrieval` |
 | Repository | `https://github.com/fucfan647/TEMPORUN2026` |
 | Official commit/tag | `v1.0.0` |
 | Environment method | Direct installation with `uv` |
