@@ -206,8 +206,8 @@ This downloads and verifies:
 
 | Resource | Revision | Size | SHA-256 |
 |---|---|---:|---|
-| [`uva-cv-lab/OmniShotCut/OmniShotCut_ckpt.pth`](https://huggingface.co/uva-cv-lab/OmniShotCut) | `7f646c4ff4bb843e18c013481fb5d9ed2b068c6b` | 164,149,963 | `5948ea78e00626c0e6c5e742e64873ef872cf4a5071d2a0841aed51c3e686cfa` |
-| [`resnet18-f37072fd.pth`](https://download.pytorch.org/models/resnet18-f37072fd.pth) | PyTorch official weight | 46,830,571 | `f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec` |
+| [`uva-cv-lab/OmniShotCut/OmniShotCut_ckpt.pth`](https://huggingface.co/uva-cv-lab/OmniShotCut) | `7f646c4ff4bb843e18c013481fb5d9ed2b068c6b` | 164,149,963 bytes| `5948ea78e00626c0e6c5e742e64873ef872cf4a5071d2a0841aed51c3e686cfa` |
+| [`resnet18-f37072fd.pth`](https://download.pytorch.org/models/resnet18-f37072fd.pth) | PyTorch official weight | 46,830,571 bytes| `f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec` |
 
 The targets default to `models/OmniShotCut/` and
 `models/torch/hub/checkpoints/`.
